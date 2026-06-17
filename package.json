@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-guestbook-sdk",
+  "name": "@praisexx/bitcoin-guestbook-sdk",
   "version": "1.0.0",
   "description": "TypeScript SDK for the Bitcoin Guestbook smart contract on Stacks blockchain",
   "license": "MIT",
